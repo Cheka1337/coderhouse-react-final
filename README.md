@@ -10,15 +10,15 @@ react-router-dom
 Firebase (Firestore)
 
 ## Características principales
-♦Carrito de compras
-♦Visualización del catálogo de productos
-♦Detalles del producto
-♦Integración con Firebase para el almacenamiento de datos (productos y ordenes de compra)
+Carrito de compras
+Visualización del catálogo de productos
+Detalles del producto
+Integración con Firebase para el almacenamiento de datos (productos y ordenes de compra)
 
 ## Descripción
-♦El proyecto esta pensado como un e-commerce de venta de indumentaria urbana llamada Urban Code.
-♦Notas personales del proyecto: La web carece de muchos estilos, estuve muy ajustado con el tiempo por temas de mi vida pesonal asi que el enfoque del proyecto
-♦fue mas que nada dedicado a la funcionalidad del mismo. Con el tiempo ire agregando estilos para dejar el proyecto pulido al maximo
+El proyecto esta pensado como un e-commerce de venta de indumentaria urbana llamada Urban Code.
+Notas personales del proyecto: La web carece de muchos estilos, estuve muy ajustado con el tiempo por temas de mi vida pesonal asi que el enfoque del proyecto
+fue mas que nada dedicado a la funcionalidad del mismo. Con el tiempo ire agregando estilos para dejar el proyecto pulido al maximo
 
 ## Instalación
 1) Clonar el repositorio
