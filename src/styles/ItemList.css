@@ -1,0 +1,9 @@
+.contenedor {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 90%;
+    max-width: 10000px;
+    margin: 20px auto;
+    flex-grow: 1;
+    gap: 10px;
+}
